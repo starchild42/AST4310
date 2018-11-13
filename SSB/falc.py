@@ -190,8 +190,3 @@ print ("Photon density at highest model location: %g" % (20*5770**3/(2*pi)))
 print ("Hydrogen density at highest model location: %g" % nhyd[argmax(h)])
 
 
-
-
-#------------------------------------------------------------
-#EXERCICE 2
-
