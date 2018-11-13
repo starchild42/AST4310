@@ -1,0 +1,43 @@
+METHOD
+In 2.8 we look at figure 5 in the project notes, which shows that in solar-type stars, the hydrogen Balmer lines become much weaker than the $Ca^+ K s = 2-1$ line at $\lambda = 3933.7 \AA$. We want to compare the line strength between solar $Ca^+K$ versus $H\alpha$, and explain why one is stronger than the other, both in the solar photosphere and low chromosphere ($T \approx 4000-6000 K$), where the lines are formed. We also look at the strength ratio between the two different element lines, and see if we can confirm the validity of our computations.
+
+We are interested in the temperature sensitivity of $Ca^+K$ and $H\alpha$, and compare the two, in 2.9. We do this by plotting the relative population changes $(\delta n_{Ca}/\delta T)/n_{Ca}$ and $(\delta n_H/\delta T$)/n_H$, for the two lower levels as function of temperature for a small temperature change $\delta T$. 
+
+In 2.10 we are interested in comparing hot and cold stars and how they excite/ionize atoms, and which elements this includes. We do this by plotting the neutral hydrogen fraction as a function of temperature, as well as the hydrogen population. Then we find at which temperature $50\%$ of the Hydrogen has been ionized. In hot stars the hydrogen ionization produces
+so many free electrons that Thomson scattering of photons off the free electrons dominates the formation of the stellar continuum. In cool stars there are only a few free electrons, none from hydrogen but only from the ionization of elements with lower first ionization energy.
+
+RESULTS
+
+Learning from Cecilia Payne and understanding that line strength rations between different elements do not only depend on their abundance ratio, but also on the temperature, helps us explain why the calcium line is much stronger than the hydrogen line from the Sun, even though the Sun and other stars are made up mostly of Hydrogen.
+
+Hydrogen is without a doubt the majority element in the Sun, so why are the Calcium lines so much stronger? We have to consider the transitions of both elements. The $Ca^+K$ transition has the ground state of s = 1, while $H\alpha$ transitions are at s = 2,3. Since the population of s = 2 of hydrogen is so small (orders of magnitude of $10^{-10}$, Calcium then has the dominating population, which gives us the strong lines.
+
+To find the strength ratio, we need to multiply the calcium abundance with the Saha-Boltzmann ratio:
+$$\frac{N_{Ca}}{N_{H}}*\frac{N_{Ca r=2,s=1}}{N{H r=1,s=2}} \approx 7650$$
+with T = 5000 K.
+
+From our temperature sensitivity plots in figure XXX of $H\alpha$ and $Ca^+K$ we can see that $H\alpha$ is more sensitive to the temperatures than $Ca^+K$, in the solar photosphere. WHICH DIP/FLANK IS WHICH? Look at figure XXX to see the overplotting of the variation with temperature of each population in relative units. EXPLAIN ALL THE FLANKS.
+
+
+A big difference in hot and cold stars are which elements the free electrons are excited from. In cool stars the electron donors are metals, while in hot stars they are given by ionized Hydrogen. By looking at the plot in figure XXX that shows hot stars vs cool stars, we have made a midway mark of $50\%$ ionization of H, and it turns out to be at $T = 9212 K$. H Balmer lines are prominent in hot stars because of the long tail of HI populations in the Saha distribution for high temperatures. Most other elements are not in the optical as they are highly ionized.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
